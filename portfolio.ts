@@ -191,8 +191,7 @@ export const educationInfo: EducationType[] = [
     desc: 'Participated in the research and published 3 papers.',
     grade: 'Grade A',
     descBullets: [
-      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+      'Data Science, Artificiel Inteligence- Computer vision · Data compression and generative modeling · Machine learning fundamentals · Optimization and reinforcement learning.',
     ],
   },
 ];
