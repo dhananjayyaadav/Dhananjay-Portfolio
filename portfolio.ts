@@ -193,6 +193,15 @@ export const educationInfo: EducationType[] = [
     descBullets: [
       'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
     ],
+  {
+    schoolName: 'Shri Ramswaroop Memorial University Lucknow',
+    subHeader: 'Diploma in Computer Science',
+    duration: 'Aug 2018 - Jun 2020',
+    desc: 'Participated in the research and published papers.',
+    grade: 'Grade A',
+    descBullets: [
+      '• First-authored a Research article, analyzing Bootstrapping and Cross-compiling for designing compilers for New architectures.',
+    ],
   },
 ];
 
@@ -203,17 +212,6 @@ export const experience: ExperienceType[] = [
     companyLogo: '/img/icons/common/dusecaSoftware.jpg',
     date: 'Apr 2022 – Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
-  },
-  {
-    role: 'API Engineer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Jan 2022 – Mar 2022',
-    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
   },
   {
     role: 'Full Stack Developer',
@@ -233,10 +231,10 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'developer-portfolio',
+    name: 'My-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+    github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
+    link: 'https://dhananjay-profile.vercel.app/',
   },
   {
     name: 'AtlasMart',
@@ -247,11 +245,6 @@ export const projects: ProjectType[] = [
     name: 'Technota (Forum)',
     desc: 'Get hands-on experience in technical skills with Technota',
     github: 'https://github.com/1hanzla100/django-react-forum',
-  },
-  {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
   },
 ];
 
@@ -273,7 +266,7 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Dhananjay Yadav',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Hanzla Tauqeer',
