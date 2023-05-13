@@ -13,26 +13,26 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
-  title: "Hi all, I'm Dhananjay",
+  title: "Hi all, I'm Dhananjay Yadav",
   description:
-    "I'm passionate Data Science and Full Stack web development having an experience of web applications with JavaScript,Python, Django, React.js, Next.js, and Blockchain development on Ethereum, Solidity, Web3.js.",
+    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
-    'https://drive.google.com/file/d/1RT8fFtAQdXa8eelode8rH6rgIFXWD4b5/view',
+    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
 };
 
 export const openSource = {
-  githubUserName: 'dhananjayyaadav',
+  githubUserName: '1hanzla100',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://dhananjay-profile.vercel.app/',
-  linkedin: 'https://www.linkedin.com/in/dhananjayyaadav/',
-  github: 'https://github.com/dhananjayyaadav',
-  instagram: 'https://www.instagram.com/',
-  facebook: 'https://www.facebook.com/dhananjayyadav06',
-  twitter: 'https://twitter.com/dhananjayyaadav',
+  url: 'https://1hanzla100.github.io/',
+  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
+  github: 'https://github.com/1hanzla100',
+  instagram: 'https://www.instagram.com/__hanzla100',
+  facebook: 'https://www.facebook.com/1hanzla100',
+  twitter: 'https://twitter.com/1hanzla100',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -83,6 +83,14 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Redux',
           fontAwesomeClassName: 'logos:redux',
         },
+        {
+          skillName: 'NPM',
+          fontAwesomeClassName: 'logos:npm-icon',
+        },
+        {
+          skillName: 'Yarn',
+          fontAwesomeClassName: 'logos:yarn',
+        },
       ],
     },
     {
@@ -131,6 +139,14 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Cloudinary',
           fontAwesomeClassName: 'logos:cloudinary',
         },
+        {
+          skillName: 'Nginx',
+          fontAwesomeClassName: 'logos:nginx',
+        },
+        {
+          skillName: 'Sentry',
+          fontAwesomeClassName: 'logos:sentry-icon',
+        },
       ],
     },
     {
@@ -168,6 +184,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Metamask',
           fontAwesomeClassName: 'logos:metamask-icon',
         },
+        {
+          skillName: 'Ganache',
+          fontAwesomeClassName: 'logos:ganache-icon',
+        },
       ],
     },
   ],
@@ -190,19 +210,37 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'INSTITUTE OF ENGINEERING AND TECHNOLOGY Ayodhya',
-    subHeader: 'B.Tech in Computer Engineering',
-    duration: 'Aug 2020 - Jul 2023'
-    percentage: '71.13',
+    schoolName: 'Harvard University',
+    subHeader: 'Master of Science in Computer Science',
+    duration: 'September 2017 - April 2019',
+    desc: 'Participated in the research of XXX and published 3 papers.',
+    grade: 'Grade A',
     descBullets: [
-      'Data Structure and Algorithm, Programming Methodology',
-      'Machine Learning, Deep Learning, Artificial Intelligence, NLP',
-
+      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
     ],
   },
 ];
 
 export const experience: ExperienceType[] = [
+  {
+    role: 'Frontend Developer',
+    company: 'Duseca Software',
+    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    date: 'Apr 2022 – Jun 2022',
+    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+  },
+  {
+    role: 'API Engineer',
+    company: 'Duseca Software',
+    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    date: 'Jan 2022 – Mar 2022',
+    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
+    // descBullets: [
+    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    // ],
+  },
   {
     role: 'Full Stack Developer',
     company: 'Bleed-AI',
@@ -220,41 +258,32 @@ export const experience: ExperienceType[] = [
 ];
 
 export const projects: ProjectType[] = [
-
   {
-    name: 'MyMeta Wallet',
-    desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
-    github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
+    name: 'developer-portfolio',
+    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
+    github: 'https://github.com/1hanzla100/developer-portfolio',
+    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
   },
   {
-    name: 'MateBook Application',
-    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript',
-         'A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
-    github: 'https://github.com/dhananjayyaadav/MateBook',
+    name: 'AtlasMart',
+    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
+    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
   },
   {
-    name: 'CLIMATE CHANGE PREDICTION | Data Science',
-    desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
-    'This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities',
-    github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
+    name: 'Technota (Forum)',
+    desc: 'Get hands-on experience in technical skills with Technota',
+    github: 'https://github.com/1hanzla100/django-react-forum',
   },
   {
-    name: 'Dhananjay-Profile',
-    desc: 'Build a Dynamic Website Using React-js and JavaScript This web page is fully customizable Portfolio Website that lets showcase my works and provide every detail about me as a Software Engineer.',
-    github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
-    link: 'https://dhananjay-profile.vercel.app/',
-  },
-  {
-    name: 'Netflix Clone',
-    desc: 'Netflix clone is created in android with MVVM architecture. It uses APIs from TMDB - The Movie Database. It contains Features like Trailer playback, Home feed, Movies, Search / View for movie, tv shows.',
-    github: 'https://github.com/dhananjayyaadav/Netflix-Clone',
-    link: 'https://dhananjay-profile.vercel.app/',
+    name: 'Shopaza (Ecommerce)',
+    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
+    github: 'https://github.com/1hanzla100/Django-ecommerce',
   },
 ];
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'Amit Kumar',
+    name: 'John Smith',
     feedback:
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
   },
@@ -270,19 +299,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Dhananjay Yadav',
-  description: 'A passionate Full Stack Developer and Blockchain Developer.',
-  author: 'Dhananjay Yadav',
-  image:
-    'https://drive.google.com/file/d/1W66rigahONwyRVnJt8ssNtp7C0_jyXMM/view?usp=drivesdk',
-  url: 'https://dhananjay-profile.vercel.app/',
+  title: 'Hanzla Tauqeer',
+  description:
+    'A passionate Full Stack Web Developer and Blockchain Developer.',
+  author: 'Hanzla Tauqeer',
+  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  url: 'https://developer-portfolio-1hanzla100.vercel.app',
   keywords: [
-    'Dhananjay',
-    'Dhananjay Yadav',
-    '@dhananjayyaadav',
-    'dhananjayyaadav',
+    'Hanzla',
+    'Hanzla Tauqeer',
+    '@1hanzla100',
+    '1hanzla100',
     'Portfolio',
-    'Dhananjay Portfolio ',
-    'Dhananjay Portfolio',
+    'Hanzla Portfolio ',
+    'Hanzla Tauqeer Portfolio',
   ],
 };
