@@ -277,15 +277,15 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  image: 'https://drive.google.com/file/d/1W66rigahONwyRVnJt8ssNtp7C0_jyXMM/view',
+  url: 'https://dhananjay-profile.vercel.app/',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Dhananjay',
+    'Dhananjay Yadav',
+    '@dhananjayyaadav',
+    'dhananjayyaadav',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Dhananjay Portfolio',
+    'Dhananjay Yadav Portfolio',
   ],
 };
