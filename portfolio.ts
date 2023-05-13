@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi all, I'm Dhananjay",
   description:
-    "I'm passionate Data Science and Full Stack web development having an experience of web applications with JavaScript,Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Machine Learnig, Data Science.",
+    "I'm passionate Data Science and Full Stack web development having an experience of web applications with JavaScript,Python, Django, React.js, Next.js, and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
     'https://drive.google.com/file/d/1RT8fFtAQdXa8eelode8rH6rgIFXWD4b5/view',
 };
@@ -190,14 +190,15 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'Harvard University',
-    subHeader: 'Master of Science in Computer Science',
-    duration: 'September 2017 - April 2019',
-    desc: 'Participated in the research of XXX and published 3 papers.',
-    grade: 'Grade A',
+    schoolName: 'INSTITUTE OF ENGINEERING AND TECHNOLOGY Ayodhya',
+    subHeader: 'B.Tech in Computer Engineering',
+    duration: 'Aug 2020 - Jul 2023'
+    percentage: '71.13',
+    location: 'Ayodhya UP - India'
     descBullets: [
-      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+      'Data Structure and Algorithm, Programming Methodology',
+      'Machine Learning, Deep Learning, Artificial Intelligence, NLP',
+      
     ],
   },
 ];
@@ -205,22 +206,11 @@ export const educationInfo: EducationType[] = [
 export const experience: ExperienceType[] = [
   {
     role: 'Frontend Developer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    company: 'Self Employed',
     date: 'Apr 2022 – Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
   },
-  {
-    role: 'API Engineer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Jan 2022 – Mar 2022',
-    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
-  },
+ 
   {
     role: 'Full Stack Developer',
     company: 'Bleed-AI',
@@ -238,26 +228,35 @@ export const experience: ExperienceType[] = [
 ];
 
 export const projects: ProjectType[] = [
+
   {
-    name: 'developer-portfolio',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+    name: 'MyMeta Wallet',
+    desc: '• Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
+    github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
   },
   {
-    name: 'AtlasMart',
-    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
+    name: 'MateBook Application',
+    desc: '• Build a Matebook App using React, CSS, Express, and TypeScript.',
+    '• A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+    github: 'https://github.com/dhananjayyaadav/MateBook',
   },
   {
-    name: 'Technota (Forum)',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
+    name: 'CLIMATE CHANGE PREDICTION | Data Science',
+    desc: '• Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
+    '• This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities.',
+    github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
   },
   {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    name: 'Dhananjay-Profile',
+    desc: '• Build a Dynamic Website Using React-js and JavaScript This web page is fully customizable Portfolio Website that lets showcase my works and provide every detail about me as a Software Engineer',
+    github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
+    link: 'https://dhananjay-profile.vercel.app/',
+  },
+  {
+    name: 'Netflix Clone',
+    desc: '• Netflix clone is created in android with MVVM architecture. It uses APIs from TMDB - The Movie Database. It contains Features like Trailer playback, Home feed, Movies, Search / View for movie, tv shows.',
+    github: 'https://github.com/dhananjayyaadav/Netflix-Clone',
+    link: 'https://dhananjay-profile.vercel.app/',
   },
 ];
 
@@ -284,12 +283,12 @@ export const seoData: SEODataType = {
   author: 'Dhananjay Yadav',
   image:
     'https://drive.google.com/file/d/1W66rigahONwyRVnJt8ssNtp7C0_jyXMM/view?usp=drivesdk',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://dhananjay-profile.vercel.app/',
   keywords: [
     'Dhananjay',
     'Dhananjay Yadav',
-    '@1hanzla100',
-    '1hanzla100',
+    '@dhananjayyaadav',
+    'dhananjayyaadav',
     'Portfolio',
     'Dhananjay Portfolio ',
     'Dhananjay Portfolio',
