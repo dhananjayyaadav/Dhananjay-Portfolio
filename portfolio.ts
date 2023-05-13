@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: 'https://dhananjay-profile.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/dhananjayyaadav/',
   github: 'https://github.com/dhananjayyaadav',
   instagram: 'https://www.instagram.com/',
@@ -194,11 +194,11 @@ export const educationInfo: EducationType[] = [
     subHeader: 'B.Tech in Computer Engineering',
     duration: 'Aug 2020 - Jul 2023'
     percentage: '71.13',
-    location: 'Ayodhya UP - India'
+
     descBullets: [
       'Data Structure and Algorithm, Programming Methodology',
       'Machine Learning, Deep Learning, Artificial Intelligence, NLP',
-      
+
     ],
   },
 ];
@@ -236,25 +236,25 @@ export const projects: ProjectType[] = [
   },
   {
     name: 'MateBook Application',
-    desc: '• Build a Matebook App using React, CSS, Express, and TypeScript.',
-    '• A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript',
+         'A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
     github: 'https://github.com/dhananjayyaadav/MateBook',
   },
   {
     name: 'CLIMATE CHANGE PREDICTION | Data Science',
-    desc: '• Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
-    '• This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities.',
+    desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
+    'This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities',
     github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
   },
   {
     name: 'Dhananjay-Profile',
-    desc: '• Build a Dynamic Website Using React-js and JavaScript This web page is fully customizable Portfolio Website that lets showcase my works and provide every detail about me as a Software Engineer',
+    desc: 'Build a Dynamic Website Using React-js and JavaScript This web page is fully customizable Portfolio Website that lets showcase my works and provide every detail about me as a Software Engineer.',
     github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
     link: 'https://dhananjay-profile.vercel.app/',
   },
   {
     name: 'Netflix Clone',
-    desc: '• Netflix clone is created in android with MVVM architecture. It uses APIs from TMDB - The Movie Database. It contains Features like Trailer playback, Home feed, Movies, Search / View for movie, tv shows.',
+    desc: 'Netflix clone is created in android with MVVM architecture. It uses APIs from TMDB - The Movie Database. It contains Features like Trailer playback, Home feed, Movies, Search / View for movie, tv shows.',
     github: 'https://github.com/dhananjayyaadav/Netflix-Clone',
     link: 'https://dhananjay-profile.vercel.app/',
   },
