@@ -15,24 +15,24 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi all, I'm Dhananjay",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I'm passionate Data Science and Full Stack web development having an experience of web applications with JavaScript,Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Machine Learnig, Data Science.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://drive.google.com/file/d/1RT8fFtAQdXa8eelode8rH6rgIFXWD4b5/view?usp=drivesdk',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'dhananjayyaadav',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://dhananjay-profile.vercel.app',
+  linkedin: 'https://www.linkedin.com/in/dhananjayyaadav/',
+  github: 'https://github.com/dhananjayyaadav',
+  instagram: 'https://www.instagram.com/',
+  facebook: 'https://www.facebook.com/dhananjayyadav06',
+  twitter: 'https://twitter.com/dhananjayyaadav',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -51,11 +51,11 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         {
-          skillName: 'HTML-5',
+          skillName: 'HTML',
           fontAwesomeClassName: 'vscode-icons:file-type-html',
         },
         {
-          skillName: 'CSS-3',
+          skillName: 'CSS',
           fontAwesomeClassName: 'vscode-icons:file-type-css',
         },
         {
@@ -80,16 +80,12 @@ export const skillsSection: SkillsSectionType = {
         },
 
         {
-          skillName: 'Redux',
-          fontAwesomeClassName: 'logos:redux',
+          skillName: 'Node.js',
+          fontAwesomeClassName: 'vscode-icons:file-type-Nodejs',
         },
         {
-          skillName: 'NPM',
-          fontAwesomeClassName: 'logos:npm-icon',
-        },
-        {
-          skillName: 'Yarn',
-          fontAwesomeClassName: 'logos:yarn',
+          skillName: 'MongoDB',
+          fontAwesomeClassName: 'logos:mongodb',
         },
       ],
     },
@@ -112,16 +108,16 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:aws',
         },
         {
-          skillName: 'Azure',
-          fontAwesomeClassName: 'logos:microsoft-azure',
+          skillName: 'Kubernetes',
+          fontAwesomeClassName: 'logos:kubernetes',
         },
         {
-          skillName: 'Heroku',
-          fontAwesomeClassName: 'logos:heroku-icon',
+          skillName: 'MongoDB',
+          fontAwesomeClassName: 'logos:mongodb-icon',
         },
         {
-          skillName: 'PostgreSQL',
-          fontAwesomeClassName: 'logos:postgresql',
+          skillName: 'GIT',
+          fontAwesomeClassName: 'logos:git',
         },
         {
           skillName: 'Github',
@@ -140,12 +136,8 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:cloudinary',
         },
         {
-          skillName: 'Nginx',
-          fontAwesomeClassName: 'logos:nginx',
-        },
-        {
-          skillName: 'Sentry',
-          fontAwesomeClassName: 'logos:sentry-icon',
+          skillName: 'Kubernetes',
+          fontAwesomeClassName: 'logos:kubernetes',
         },
       ],
     },
@@ -259,25 +251,25 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
+    name: 'MateBook',
+    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
+    github: 'https://github.com/dhananjayyaadav/MateBook',
+  },
+  {
+    name: 'MyMeta Wallet',
+    desc: 'Get hands-on experience in technical skills with Technota',
+    github: 'https://github.com/dhananjayyaadav/MyMeta-Wallet',
+  },
+  {
+    name: 'Netflix Clone',
+    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
+    github: 'https://github.com/dhananjayyaadav/Netflix-Clone-',
+  },
+  {
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
-  },
-  {
-    name: 'AtlasMart',
-    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
-  },
-  {
-    name: 'Technota (Forum)',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
-  },
-  {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
+    link: 'https://dhananjay-profile-fsm1.vercel.app/',
   },
 ];
 
