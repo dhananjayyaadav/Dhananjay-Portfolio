@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Dhananjay',
-  title: "Hi all, I'm Dhananjay Yadav",
+  title: "Hi all, I'm Dhananjay",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
