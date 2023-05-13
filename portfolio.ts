@@ -12,27 +12,27 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Dhananja',
-  title: "Hi all, I'm Dhananjay",
+  name: 'Dhananjay Yadav',
+  title: "Hi all, I'm Dhananjay Yadav",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I'm passionate Data Science and Full Stack web developer having an experience of web applications with Python, Django, React.js, JavaScript, Node.js, Next.js, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://drive.google.com/file/d/1WXRzWEnGxtIq22XdZLb2qaXA-K3ZioF3/view?usp=drivesdk',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'dhananjayyaadav',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://dhananjay-profile.vercel.app/',
+  linkedin: 'https://www.linkedin.com/in/dhananjayyaadav/',
+  github: 'https://github.com/dhananjayyaadav',
+  instagram: 'https://www.instagram.com/',
+  facebook: 'https://www.facebook.com/dhananjayyadav06',
+  twitter: 'https://twitter.com/dhananjayyaadav',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -51,11 +51,11 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         {
-          skillName: 'HTML-5',
+          skillName: 'HTML',
           fontAwesomeClassName: 'vscode-icons:file-type-html',
         },
         {
-          skillName: 'CSS-3',
+          skillName: 'CSS',
           fontAwesomeClassName: 'vscode-icons:file-type-css',
         },
         {
@@ -77,19 +77,6 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Django',
           fontAwesomeClassName: 'vscode-icons:file-type-django',
-        },
-
-        {
-          skillName: 'Redux',
-          fontAwesomeClassName: 'logos:redux',
-        },
-        {
-          skillName: 'NPM',
-          fontAwesomeClassName: 'logos:npm-icon',
-        },
-        {
-          skillName: 'Yarn',
-          fontAwesomeClassName: 'logos:yarn',
         },
       ],
     },
@@ -139,14 +126,6 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Cloudinary',
           fontAwesomeClassName: 'logos:cloudinary',
         },
-        {
-          skillName: 'Nginx',
-          fontAwesomeClassName: 'logos:nginx',
-        },
-        {
-          skillName: 'Sentry',
-          fontAwesomeClassName: 'logos:sentry-icon',
-        },
       ],
     },
     {
@@ -184,10 +163,6 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Metamask',
           fontAwesomeClassName: 'logos:metamask-icon',
         },
-        {
-          skillName: 'Ganache',
-          fontAwesomeClassName: 'logos:ganache-icon',
-        },
       ],
     },
   ],
@@ -210,10 +185,10 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'Harvard University',
-    subHeader: 'Master of Science in Computer Science',
-    duration: 'September 2017 - April 2019',
-    desc: 'Participated in the research of XXX and published 3 papers.',
+    schoolName: 'Institute of Engineering And Technology Ayodhya',
+    subHeader: 'B.Tech in Computer Science',
+    duration: 'Aug 2020 - Jul 2023',
+    desc: 'Participated in the research and published 3 papers.',
     grade: 'Grade A',
     descBullets: [
       'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
