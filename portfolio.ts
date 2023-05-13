@@ -209,18 +209,19 @@ export const SkillBars: SkillBarsType[] = [
 ];
 
 export const educationInfo: EducationType[] = [
-{
-  schoolName: 'INSTITUTE OF ENGINEERING AND TECHNOLOGY Ayodhya',
-  subHeader: 'B.Tech in Computer Engineering',
-  duration: 'Aug 2020 - Jul 2023'
-  percentage: '71.13',
-  descBullets: [
-    'Data Structure and Algorithm, Programming Methodology',
-    'Machine Learning, Deep Learning, Artificial Intelligence, NLP',
-
-  ],
-},
+  {
+    schoolName: 'Harvard University',
+    subHeader: 'Master of Science in Computer Science',
+    duration: 'September 2017 - April 2019',
+    desc: 'Participated in the research of XXX and published 3 papers.',
+    grade: 'Grade A',
+    descBullets: [
+      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    ],
+  },
 ];
+
 export const experience: ExperienceType[] = [
   {
     role: 'Frontend Developer',
