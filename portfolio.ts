@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Data Science and Full Stack web development having an experience of web applications with JavaScript,Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Machine Learnig, Data Science.",
   resumeLink:
-    'https://drive.google.com/file/d/1RT8fFtAQdXa8eelode8rH6rgIFXWD4b5/view?usp=drivesdk',
+    'https://drive.google.com/file/d/1RT8fFtAQdXa8eelode8rH6rgIFXWD4b5/view',
 };
 
 export const openSource = {
@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://dhananjay-profile.vercel.app',
+  url: 'https://1hanzla100.github.io/',
   linkedin: 'https://www.linkedin.com/in/dhananjayyaadav/',
   github: 'https://github.com/dhananjayyaadav',
   instagram: 'https://www.instagram.com/',
@@ -51,11 +51,11 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         {
-          skillName: 'HTML',
+          skillName: 'HTML-5',
           fontAwesomeClassName: 'vscode-icons:file-type-html',
         },
         {
-          skillName: 'CSS',
+          skillName: 'CSS-3',
           fontAwesomeClassName: 'vscode-icons:file-type-css',
         },
         {
@@ -80,12 +80,8 @@ export const skillsSection: SkillsSectionType = {
         },
 
         {
-          skillName: 'Node.js',
-          fontAwesomeClassName: 'vscode-icons:file-type-Nodejs',
-        },
-        {
-          skillName: 'MongoDB',
-          fontAwesomeClassName: 'logos:mongodb',
+          skillName: 'Redux',
+          fontAwesomeClassName: 'logos:redux',
         },
       ],
     },
@@ -108,16 +104,16 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:aws',
         },
         {
-          skillName: 'Kubernetes',
-          fontAwesomeClassName: 'logos:kubernetes',
+          skillName: 'Azure',
+          fontAwesomeClassName: 'logos:microsoft-azure',
         },
         {
-          skillName: 'MongoDB',
-          fontAwesomeClassName: 'logos:mongodb-icon',
+          skillName: 'Heroku',
+          fontAwesomeClassName: 'logos:heroku-icon',
         },
         {
-          skillName: 'GIT',
-          fontAwesomeClassName: 'logos:git',
+          skillName: 'PostgreSQL',
+          fontAwesomeClassName: 'logos:postgresql',
         },
         {
           skillName: 'Github',
@@ -134,10 +130,6 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Cloudinary',
           fontAwesomeClassName: 'logos:cloudinary',
-        },
-        {
-          skillName: 'Kubernetes',
-          fontAwesomeClassName: 'logos:kubernetes',
         },
       ],
     },
@@ -175,10 +167,6 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Metamask',
           fontAwesomeClassName: 'logos:metamask-icon',
-        },
-        {
-          skillName: 'Ganache',
-          fontAwesomeClassName: 'logos:ganache-icon',
         },
       ],
     },
@@ -251,31 +239,31 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'MateBook',
-    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/dhananjayyaadav/MateBook',
-  },
-  {
-    name: 'MyMeta Wallet',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/dhananjayyaadav/MyMeta-Wallet',
-  },
-  {
-    name: 'Netflix Clone',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/dhananjayyaadav/Netflix-Clone-',
-  },
-  {
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
-    link: 'https://dhananjay-profile-fsm1.vercel.app/',
+    github: 'https://github.com/1hanzla100/developer-portfolio',
+    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+  },
+  {
+    name: 'AtlasMart',
+    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
+    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
+  },
+  {
+    name: 'Technota (Forum)',
+    desc: 'Get hands-on experience in technical skills with Technota',
+    github: 'https://github.com/1hanzla100/django-react-forum',
+  },
+  {
+    name: 'Shopaza (Ecommerce)',
+    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
+    github: 'https://github.com/1hanzla100/Django-ecommerce',
   },
 ];
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'Amit Kumar',
     feedback:
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
   },
@@ -291,19 +279,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
-  description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  title: 'Dhananjay Yadav',
+  description: 'A passionate Full Stack Developer and Blockchain Developer.',
+  author: 'Dhananjay Yadav',
+  image:
+    'https://drive.google.com/file/d/1W66rigahONwyRVnJt8ssNtp7C0_jyXMM/view?usp=drivesdk',
   url: 'https://developer-portfolio-1hanzla100.vercel.app',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
+    'Dhananjay',
+    'Dhananjay Yadav',
     '@1hanzla100',
     '1hanzla100',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Dhananjay Portfolio ',
+    'Dhananjay Portfolio',
   ],
 };
