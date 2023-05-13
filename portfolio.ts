@@ -200,7 +200,7 @@ export const educationInfo: EducationType[] = [
     desc: 'Participated in the research and published papers.',
     grade: 'Grade A',
     descBullets: [
-      '• First-authored a Research article, analyzing Bootstrapping and Cross-compiling for designing compilers for New architectures.',
+      'First-authored a Research article, analyzing Bootstrapping and Cross-compiling for designing compilers for New architectures.',
     ],
   },
 ];
@@ -269,7 +269,7 @@ export const seoData: SEODataType = {
   title: 'Dhananjay Yadav',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
+  author: 'Dhananjay Yadav',
   image: 'https://drive.google.com/file/d/1W66rigahONwyRVnJt8ssNtp7C0_jyXMM/view',
   url: 'https://dhananjay-profile.vercel.app/',
   keywords: [
