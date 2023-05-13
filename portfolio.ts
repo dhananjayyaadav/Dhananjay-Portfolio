@@ -191,7 +191,7 @@ export const educationInfo: EducationType[] = [
     desc: 'Participated in the research and published 3 papers.',
     grade: 'Grade A',
     descBullets: [
-      'Data Science, Artificiel Inteligence- Computer vision · Data compression and generative modeling · Machine learning fundamentals · Optimization and reinforcement learning.',
+      'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
     ],
   },
 ];
@@ -283,7 +283,7 @@ export const seoData: SEODataType = {
     'Dhananjay',
     'Dhananjay Yadav',
     '@dhananjayyaadav',
-    'dhananjayyaadav',
+    'dhananjayyadav',
     'Portfolio',
     'Dhananjay Portfolio',
     'Dhananjay Yadav Portfolio',
