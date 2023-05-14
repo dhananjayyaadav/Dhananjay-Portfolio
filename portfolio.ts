@@ -222,16 +222,15 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'My-portfolio',
+    name: 'Profile-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
     link: 'https://dhananjay-profile.vercel.app/',
   },
   {
-    name: 'My-portfolio',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
-    link: 'https://dhananjay-profile.vercel.app/',
+    name: 'MyMeta Wallet',
+    desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
+    github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
   },
 
 
