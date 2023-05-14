@@ -229,8 +229,7 @@ export const projects: ProjectType[] = [
   },
  {
     name: 'My-Meta-Wallet',
-    desc: '• Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
-          '• A MyMeta Wallet is a Crypto Wallet. Which is based on Web 3.O, It is Built using Blockchain Technology.',
+    desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
     github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
   },
 ];
