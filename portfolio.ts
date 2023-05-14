@@ -188,7 +188,7 @@ export const educationInfo: EducationType[] = [
     grade: 'Grade A',
     descBullets: [
       'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
-    ],
+    },
  {
     schoolName: 'Institute of Engineering And Technology Ayodhya',
     subHeader: 'B.Tech in Computer Science',
@@ -197,7 +197,7 @@ export const educationInfo: EducationType[] = [
     grade: 'Grade A',
     descBullets: [
       'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
-    ],
+    },
   },
 ];
 
