@@ -184,17 +184,7 @@ export const educationInfo: EducationType[] = [
     schoolName: 'Institute of Engineering And Technology Ayodhya',
     subHeader: 'B.Tech in Computer Science',
     duration: 'Aug 2020 - Jul 2023',
-    desc: 'Participated in the research and published 3 papers.',
-    grade: 'Grade A',
-    descBullets: [
-      'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
-    ],
-export const educationInfo: EducationType[] = [
-  {
-    schoolName: 'Institute of Engineering And Technology Ayodhya',
-    subHeader: 'B.Tech in Computer Science',
-    duration: 'Aug 2020 - Jul 2023',
-    desc: 'Participated in the research and published 3 papers.',
+    desc: 'Participated in the research and published papers.',
     grade: 'Grade A',
     descBullets: [
       'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
@@ -203,25 +193,24 @@ export const educationInfo: EducationType[] = [
 ];
 
 export const experience: ExperienceType[] = [
-  {
-    role: 'Frontend Developer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Apr 2022 – Jun 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
-  },
-  {
+ {
     role: 'Full Stack Developer',
     company: 'Bleed-AI',
     companyLogo: '/img/icons/common/bleedAI.jpg',
-    date: 'Sept 2021 - Oct 2021',
+    date: 'Jan 2022 - Mar 2023',
     desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
   },
   {
+    role: 'Frontend Developer',
+    company: 'Self Employed',
+    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    date: 'Sep 2022 – Jan 2022',
+    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+  },
+  {
     role: 'Backend Developer',
-    company: 'Wapidu',
-    companyLogo: '/img/icons/common/wapidu.jpg',
-    date: 'Sept 2021',
+    company: 'Self Employed ',
+    date: 'Sept 2022',
     desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
   },
 ];
@@ -253,19 +242,6 @@ export const projects: ProjectType[] = [
     name: 'Climate Change Prediction',
     desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
     github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
-  },
-];
-
-export const feedbacks: FeedbackType[] = [
-  {
-    name: 'John Smith',
-    feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
-  },
-  {
-    name: 'John Smith',
-    feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
   },
 ];
 
