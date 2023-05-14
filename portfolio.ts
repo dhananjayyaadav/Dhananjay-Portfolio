@@ -213,6 +213,12 @@ export const experience: ExperienceType[] = [
     date: 'Sept 2022',
     desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
   },
+  {
+    role: 'Backend Developer',
+    company: 'Self Employed ',
+    date: 'Sept 2022',
+    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
+  },
 ];
 
 export const projects: ProjectType[] = [
