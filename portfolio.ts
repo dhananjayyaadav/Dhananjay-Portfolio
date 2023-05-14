@@ -232,8 +232,12 @@ export const projects: ProjectType[] = [
     desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
     github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
   },
-
-
+  {
+    name: 'MateBook ',
+    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+    github: 'https://github.com/dhananjayyaadav/MateBook',
+     link: 'https://facebook-clone-dev.vercel.app/',
+  },
 ];
 
 export const feedbacks: FeedbackType[] = [
