@@ -227,16 +227,6 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
     link: 'https://dhananjay-profile.vercel.app/',
   },
-  {
-    name: 'MyMeta-Wallet',
-    desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
-         github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
-  },
-  {
-    name: 'MATEBOOK',
-    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript.
-     github: 'https://github.com/dhananjayyaadav/MateBook',
-  },
 ];
 
 export const feedbacks: FeedbackType[] = [
