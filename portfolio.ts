@@ -234,9 +234,19 @@ export const projects: ProjectType[] = [
   },
   {
     name: 'MateBook ',
-    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application Users can Send/Accept/Cancel Friend requests.and Users can View/Like/Comment Friend’s Posts.',
     github: 'https://github.com/dhananjayyaadav/MateBook',
      link: 'https://facebook-clone-dev.vercel.app/',
+  },
+  {
+    name: 'Netflix Clone ',
+    desc: 'Netflix clone is created in android with MVVM architecture. It uses APIs from TMDB - The Movie Database. It contains Features like Trailer playback, Home feed, Movies, Search / View for movie, tv shows.',
+    github: 'https://github.com/dhananjayyaadav/Netflix-Clone',
+  },
+  {
+    name: 'CLIMATE CHANGE PREDICTION',
+    desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
+    github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
   },
 ];
 
