@@ -189,6 +189,15 @@ export const educationInfo: EducationType[] = [
     descBullets: [
       'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
     ],
+ {
+    schoolName: 'Institute of Engineering And Technology Ayodhya',
+    subHeader: 'B.Tech in Computer Science',
+    duration: 'Aug 2020 - Jul 2023',
+    desc: 'Participated in the research and published 3 papers.',
+    grade: 'Grade A',
+    descBullets: [
+      'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
+    ],
   },
 ];
 
