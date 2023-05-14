@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Data Science and Full Stack web developer having an experience of web applications with Python, Django, React.js, JavaScript, Node.js, Next.js, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
-    'https://drive.google.com/file/d/1WXRzWEnGxtIq22XdZLb2qaXA-K3ZioF3/view?usp=drivesdk',
+    'https://drive.google.com/file/d/1Y7YXvNWP9pgFenXsAGcyfMoKmEtvbGTT/view?usp=drivesdk',
 };
 
 export const openSource = {
@@ -101,10 +101,6 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Azure',
           fontAwesomeClassName: 'logos:microsoft-azure',
-        },
-        {
-          skillName: 'Heroku',
-          fontAwesomeClassName: 'logos:heroku-icon',
         },
         {
           skillName: 'PostgreSQL',
@@ -244,7 +240,7 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/dhananjayyaadav/Netflix-Clone',
   },
   {
-    name: 'CLIMATE CHANGE PREDICTION',
+    name: 'Climate Change Prediction',
     desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
     github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
   },
