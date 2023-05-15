@@ -200,25 +200,6 @@ export const experience: ExperienceType[] = [
     date: 'Jan 2022 - Mar 2023',
     desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
   },
-  {
-    role: 'Frontend Developer',
-    company: 'Self Employed',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Sep 2022 – Jan 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
-  },
-  {
-    role: 'Backend Developer',
-    company: 'Self Employed ',
-    date: 'Sept 2022',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
-  },
-  {
-    role: 'Backend Developer',
-    company: 'Self Employed ',
-    date: 'Sept 2022',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
-  },
 ];
 
 export const projects: ProjectType[] = [
