@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
-  title: "Hi all, I'm Dhananjay Yadav", 
+  title: "Hi, I'm Dhananjay Yadav", 
   description:
     "I'm passionate Data Science and Full Stack web developer having an experience of web applications with Python, Django, React.js, JavaScript, Node.js, Next.js, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
@@ -226,7 +226,7 @@ export const experience: ExperienceType[] = [
 ];
 export const projects: ProjectType[] = [
   {
-    name: 'Profile-portfolio',
+    name: 'MyProfile-Portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
     link: 'https://dhananjay-profile.vercel.app/',
@@ -270,7 +270,7 @@ export const seoData: SEODataType = {
     'Dhananjay Yadav',
     '@dhananjayyaadav',
     'dhananjayyadav',
-    'Portfolio',
+    'Profile',
     'Dhananjay Portfolio',
     'Dhananjay Yadav Portfolio',
   ],
