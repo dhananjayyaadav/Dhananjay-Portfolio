@@ -2,6 +2,7 @@ import emoji from 'react-easy-emoji';
 import {
   EducationType,
   ExperienceType,
+  FeedbackType,
   ProjectType,
   SkillsSectionType,
   SkillBarsType,
@@ -252,7 +253,18 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
   },
 ];
-
+export const feedbacks: FeedbackType[] = [
+  {
+    name: 'John Smith',
+    feedback:
+      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+  },
+  {
+    name: 'John Smith',
+    feedback:
+      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+  },
+];
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = true;
 
