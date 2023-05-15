@@ -178,7 +178,6 @@ export const SkillBars: SkillBarsType[] = [
     progressPercentage: '60',
   },
 ];
-
 export const educationInfo: EducationType[] = [
   {
     schoolName: 'Institute of Engineering And Technology Ayodhya',
