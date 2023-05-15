@@ -2,7 +2,6 @@ import emoji from 'react-easy-emoji';
 import {
   EducationType,
   ExperienceType,
-  FeedbackType,
   ProjectType,
   SkillsSectionType,
   SkillBarsType,
@@ -226,7 +225,7 @@ export const experience: ExperienceType[] = [
 ];
 export const projects: ProjectType[] = [
   {
-    name: 'MyProfile-Portfolio',
+    name: 'Personal-Portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/dhananjayyaadav/Dhananjay-Profile',
     link: 'https://dhananjay-profile.vercel.app/',
@@ -270,7 +269,7 @@ export const seoData: SEODataType = {
     'Dhananjay Yadav',
     '@dhananjayyaadav',
     'dhananjayyadav',
-    'Profile',
+    'portfolio',
     'Dhananjay Portfolio',
     'Dhananjay Yadav Portfolio',
   ],
