@@ -25,7 +25,6 @@ export const openSource = {
 };
 
 export const contact = {};
-
 export const socialLinks: SocialLinksType = {
   url: 'https://dhananjay-profile.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/dhananjayyaadav/',
