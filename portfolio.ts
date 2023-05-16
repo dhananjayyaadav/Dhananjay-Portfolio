@@ -205,7 +205,7 @@ export const experience: ExperienceType[] = [
     role: 'Full Stack Developer',
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed_Copy.png',
-    date: 'Sept 2022 - Mar 2023',
+    date: 'Nov 2022 - Mar 2023',
     desc: ' Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
 },
   {
@@ -219,7 +219,7 @@ export const experience: ExperienceType[] = [
     role: 'API Engineer',
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed.png',
-    date: 'Sep 2022 – Jan 2023',
+    date: 'Dec 2022 – Jan 2023',
     desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -228,9 +228,9 @@ export const experience: ExperienceType[] = [
   },
   {
     role: 'Data Science Engineer',
-    company: 'Coursera',
+    company: 'Self Emoloyed',
     companyLogo: '/img/icons/common/coursera_icon.png',
-    date: 'Apr 2023',
+    date: 'Apr 2023 - Present',
     desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities.',  },
 ];
 export const projects: ProjectType[] = [
