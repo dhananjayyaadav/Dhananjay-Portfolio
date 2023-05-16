@@ -277,7 +277,7 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Dhananjay Yadav',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  image: 'https://github.com/dhananjayyaadav/Dhananjay-Profile/blob/211e7e2478dd6e0244768e2c133e8f91542caa6c/photo_2022-12-26_15-27-57-removebg-preview%20(3).png',
   url: 'https://dhananjay-profile.vercel.app/',
   keywords: [
     'Dhananjay',
