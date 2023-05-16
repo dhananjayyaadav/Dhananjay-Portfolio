@@ -193,8 +193,13 @@ export const educationInfo: EducationType[] = [
 export const experience: ExperienceType[] = [
   {
     role: 'Frontend Developer',
+<<<<<<< HEAD
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed_img.png',
+=======
+    company: 'Duseca Software',
+    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+>>>>>>> 02466541a9389145317ec41bd0995db6ca85a52d
     date: 'Apr 2022 – Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
   },
@@ -203,6 +208,9 @@ export const experience: ExperienceType[] = [
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed_img.png',
     date: 'Sep 2022 – Jan 2023',
+    company: 'Duseca Software',
+    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    date: 'Jan 2022 – Mar 2022',
     desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
