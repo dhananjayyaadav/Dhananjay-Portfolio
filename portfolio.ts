@@ -200,7 +200,7 @@ export const educationInfo: EducationType[] = [
     ],
   },
 ];
-export const experience: Project Work ExperienceType[] = [
+export const experience: ExperienceType[] = [
   {
     role: 'Full Stack Developer',
     company: 'Self Employed',
@@ -264,14 +264,14 @@ export const projects: ProjectType[] = [
 ];
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'Amit Kumar',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Really great work and I wanted to take a moment to express my sincere appreciation for your exceptional work and outstanding contribution to our team.',
   },
   {
-    name: 'John Smith',
+    name: 'Rohit Chauhan',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'I am impressed by your ability to collaborate effectively with colleagues, both within our team and across departments, I look forward to witnessing your continued growth and success.',
   },
 ];
 // option to hide or show the ContactUs component
