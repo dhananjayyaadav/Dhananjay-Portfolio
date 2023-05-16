@@ -200,7 +200,7 @@ export const educationInfo: EducationType[] = [
     ],
   },
 ];
-export const experience: ExperienceType[] = [
+export const experience: Project Work ExperienceType[] = [
   {
     role: 'Full Stack Developer',
     company: 'Self Employed',
