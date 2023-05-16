@@ -181,23 +181,40 @@ export const SkillBars: SkillBarsType[] = [
 export const educationInfo: EducationType[] = [
   {
     schoolName: 'Institute of Engineering And Technology Ayodhya',
-    subHeader: 'B.Tech in Computer Science',
+    subHeader: 'B.Tech in Computer Engineering',
     duration: 'Aug 2020 - Jul 2023',
+    desc: 'Participated in the research and published papers.',
+    grade: 'Percentage- 71.13',
+    descBullets: [
+      'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
+    ],
+},
+  {
+    schoolName: 'Shri Ramswaroop Memorial University Lucknow',
+    subHeader: 'Diploma in Computer Science',
+    duration: 'Aug 2018 - Jun 2020',
     desc: 'Participated in the research and published papers.',
     grade: 'Grade A',
     descBullets: [
-      'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
+      'First-authored a Research article, analyzing Bootstrapping and Cross-compiling for designing compilers for New architectures.',
     ],
   },
 ];
 export const experience: ExperienceType[] = [
+  {
+    role: 'Full Stack Developer',
+    company: 'Self Employed',
+    companyLogo: '/img/icons/common/Self_employed_Copy.png',
+    date: 'Sept 2022 - Mar 2023',
+    desc: ' Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+},
   {
     role: 'Frontend Developer',
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed_img.png',
     date: 'Apr 2022 – Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
-  },
+},
   {
     role: 'API Engineer',
     company: 'Self Employed',
@@ -210,19 +227,11 @@ export const experience: ExperienceType[] = [
     // ],
   },
   {
-    role: 'Full Stack Developer',
-    company: 'Bleed-AI',
-    companyLogo: '/img/icons/common/bleedAI.jpg',
-    date: 'Sept 2021 - Oct 2021',
-    desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
-  },
-  {
-    role: 'Backend Developer',
-    company: 'Wapidu',
-    companyLogo: '/img/icons/common/wapidu.jpg',
-    date: 'Sept 2021',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
-  },
+    role: 'Data Science Engineer',
+    company: 'Coursera',
+    companyLogo: '/img/icons/common/coursera_icon.png',
+    date: 'Apr 2023',
+    desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities.',  },
 ];
 export const projects: ProjectType[] = [
   {
