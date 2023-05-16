@@ -204,9 +204,9 @@ export const experience: ExperienceType[] = [
   {
     role: 'Full Stack Developer',
     company: 'Self Employed',
-    companyLogo: '/img/icons/common/Self_employed.png',
+    companyLogo: '/img/icons/common/Self_employed_Copy.png',
     date: 'Sept 2022 - Mar 2023',
-    desc: 'Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+    desc: ' Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
 },
   {
     role: 'Frontend Developer',
