@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Data Science and Full Stack web developer having an experience of web applications with Python, Django, React.js, JavaScript, Node.js, Next.js, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
-    'https://drive.google.com/file/d/1gU43FZs-2f_1KcJbx6Y3EfM-EvVSQLef/view',
+    'https://drive.google.com/file/d/1vTNWLCXWEVWCtRR5crHtktsLHlnf1U6P/view',
 };
 
 export const openSource = {
