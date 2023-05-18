@@ -254,6 +254,11 @@ export const projects: ProjectType[] = [
     desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change.',
     github: 'https://github.com/dhananjayyaadav/Climate-Change-Prediction',
   },
+ {
+    name: 'Disney+Star-game',
+    desc: 'Create a dynamic web page using JavaScript which will allow the user to play a game to randomly select A Disney character, and A Disney character should be randomly selected when the user clicks a button on screen to play the game.',
+    github: 'https://github.com/dhananjayyaadav/DisneyPlus-Star-Game',
+  },
 ];
 export const feedbacks: FeedbackType[] = [
   {
