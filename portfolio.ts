@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi, I'm Dhananjay Yadav",
   description:
-    "I'm passionate Data Science and Full Stack development having an expertise of web applications with Python, Django, React.js, JavaScript, Node.js, Next.js, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
+    "I'm passionate Data Science and Full Stack development having an expertise in these areas of web applications with Python, Django, React.js, JavaScript, Node.js, Next.js, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
     'https://drive.google.com/file/d/1rUviwPzEcqFw7uLFQ4Lqnhlwc_Y77Sbl/view',
 };
