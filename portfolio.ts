@@ -265,7 +265,7 @@ export const feedbacks: FeedbackType[] = [
       'Really great work and I wanted to take a moment to express my sincere appreciation for your exceptional work and outstanding contribution to our team.',
   },
   {
-    name: 'Rohit Chauhan',
+    name: 'Rohit',
     feedback:
       'I am impressed by your ability to collaborate effectively with colleagues, both within our team and across departments, I look forward to witnessing your continued growth and success.',
   },
