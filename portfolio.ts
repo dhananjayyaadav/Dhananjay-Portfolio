@@ -32,6 +32,7 @@ export const socialLinks: SocialLinksType = {
   instagram: 'https://www.instagram.com/',
   facebook: 'https://www.facebook.com/dhananjayyadav06',
   twitter: 'https://twitter.com/dhananjayyaadav',
+  youtube: 'https://www.youtube.com/@DhananjayYadav',
 };
 
 export const skillsSection: SkillsSectionType = {
