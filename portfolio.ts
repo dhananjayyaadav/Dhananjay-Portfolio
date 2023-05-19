@@ -103,10 +103,6 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:microsoft-azure',
         },
         {
-          skillName: 'PostgreSQL',
-          fontAwesomeClassName: 'logos:postgresql',
-        },
-        {
           skillName: 'Github',
           fontAwesomeClassName: 'akar-icons:github-fill',
         },
