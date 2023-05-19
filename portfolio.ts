@@ -192,21 +192,21 @@ export const educationInfo: EducationType[] = [
 ];
 export const experience: ExperienceType[] = [
   {
-    role: 'Full Stack Developer',
+    role: 'Full Stack Development',
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed_Copy.png',
     date: 'Nov 2022 - Mar 2023',
     desc: ' Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
 },
   {
-    role: 'Frontend Developer',
+    role: 'Frontend Development',
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed_img.png',
     date: 'Apr 2022 – Jun 2022',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
 },
   {
-    role: 'API Engineer',
+    role: 'API Design',
     company: 'Self Employed',
     companyLogo: '/img/icons/common/Self_employed.png',
     date: 'Dec 2022 – Jan 2023',
@@ -217,7 +217,7 @@ export const experience: ExperienceType[] = [
     // ],
   },
   {
-    role: 'Data Science Engineer',
+    role: 'Data Science',
     company: 'Self Emoloyed',
     companyLogo: '/img/icons/common/coursera_icon.png',
     date: 'Apr 2023 - Present',
