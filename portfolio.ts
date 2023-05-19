@@ -218,8 +218,8 @@ export const experience: ExperienceType[] = [
   },
   {
     role: 'Data Science',
-    company: 'Self Emoloyed',
-    companyLogo: '/img/icons/common/coursera_icon.png',
+    company: 'Self Employed',
+    companyLogo: '/img/icons/common/Self_employed.png',
     date: 'Apr 2023 - Present',
     desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities.',  },
 ];
