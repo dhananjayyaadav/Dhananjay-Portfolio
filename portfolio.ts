@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi, I'm Dhananjay Yadav",
   description:
-    "I'm passionate Full Stack development and Data Science having an expertise of full-stack web applications with TypeScript, React.js, JavaScript, Node.js, Next.js, Python, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
+    "I'm passionate with Full Stack development and Data Science having an expertise of full-stack web applications with TypeScript, React.js, JavaScript, Node.js, Next.js, Python, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
    'https://drive.google.com/file/d/1uz4NDp5AzG9HuomQCeI75zE1zbw1PeU4/view',
 };
@@ -237,7 +237,7 @@ export const projects: ProjectType[] = [
     link: 'https://facebook-clone-dev.vercel.app/',
   },
   {
-    name: 'MyMeta Wallet',
+    name: 'Apna Wallet',
     desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
     github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
   },
@@ -249,7 +249,7 @@ export const projects: ProjectType[] = [
   {
     name: 'Netflix Clone ',
     desc: 'Netflix clone is created in android with MVVM architecture. It uses APIs from TMDB - The Movie Database. It contains Features like Trailer playback, Home feed, Movies, Search / View for movie, tv shows.',
-    github: 'https://github.com/dhananjayyaadav/Netflix-Clone',
+    github: 'https://github.com/dhananjayyaadav/Netflix',
   },
 
  {
