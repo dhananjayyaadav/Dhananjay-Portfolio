@@ -174,7 +174,7 @@ export const educationInfo: EducationType[] = [
     subHeader: 'B.Tech in Computer Engineering',
     duration: 'Aug 2020 - Jul 2023',
     desc: 'Participated in the research and published papers.',
-    grade: 'Percentage- 71.13',
+    grade: 'Percentage- 78.13',
     descBullets: [
       'Data Science, Artificiel Inteligence- Computer vision, Data compression and generative modeling, Machine learning fundamentals, Optimization and reinforcement learning.',
     ],
@@ -215,13 +215,6 @@ export const experience: ExperienceType[] = [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
-  },
-  {
-    role: 'Data Science',
-    company: 'Self Employed',
-    companyLogo: '/img/icons/common/Self_employed.png',
-    date: 'Apr 2023 - Present',
-    desc: 'Create a project on Climate Change Prediction using Machine Learning, Data Science, ARIMA and (Tree-based) Model. Which will help in Analyzing and Predicting Earth’s Climate and Environmental change This project also includes Analysis of the Effect of Greenhouse gases on Rising Pollution levels and Temperature changes, and predicts the Safest and Most Polluted cities.',  },
 ];
 export const projects: ProjectType[] = [
   {
@@ -239,7 +232,8 @@ export const projects: ProjectType[] = [
   {
     name: 'Apna Wallet',
     desc: 'Build a MyMeta Wallet Blockchain Project It is a Crypto Wallet that provides Easy Access to store and share Crypto Coins or Digital Assets.',
-    github: 'https://github.com/dhananjayyaadav/My-Meta-Wallet',
+    github: 'https://github.com/dhananjayyaadav/apna-wallet',
+    link: 'https://apna-wallet.vercel.app/',
   },
   {
     name: 'Climate Change Prediction',
