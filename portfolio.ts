@@ -15,9 +15,9 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi, I'm Dhananjay Yadav",
   description:
-    "I'm passionate with Full Stack development and Data Science having an expertise of full-stack web applications with TypeScript, React.js, JavaScript, Node.js, Next.js, Python, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
+    "I'm passionate with Full Stack and Blockchain development having an expertise of full-stack web applications with TypeScript, React.js, JavaScript, Node.js, Next.js, Python, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
   resumeLink:
-   'https://drive.google.com/file/d/1uz4NDp5AzG9HuomQCeI75zE1zbw1PeU4/view',
+   'https://drive.google.com/file/d/1NVEb6uwTAu6rcW8iTDW-dZk9TACFubEd/view',
 };
 
 export const openSource = {
@@ -32,7 +32,7 @@ export const socialLinks: SocialLinksType = {
   instagram: 'https://www.instagram.com/',
   facebook: 'https://www.facebook.com/dhananjayyadav06',
   twitter: 'https://twitter.com/dhananjayyaadav',
-  youtube: 'https://www.youtube.com/@DhananjayYadav.',
+  youtube: 'https://www.youtube.com/@DhananjayYadav',
 };
 
 export const skillsSection: SkillsSectionType = {
