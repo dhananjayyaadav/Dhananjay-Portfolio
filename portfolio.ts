@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi, I'm Dhananjay Yadav",
   description:
-    "I'm passionate with Full Stack and Blockchain development having an expertise of full-stack web applications with TypeScript, React.js, JavaScript, Node.js, Next.js, Python, MongoDB and Blockchain development on Ethereum, Solidity, Web3.js.",
+    "I'm a passionate and skilled FUll Stack Developer with a BTech degree Institute of Engineering and Technology. My expertise lies in ReactJS, Redux, Node.js and JavaScript, and I enjoy solving programming problems using my strong understanding of data structures and algorithms. With a focus on continuous improvement, I strive to enhance my skills and stay up-to-date with the latest technologies. having an expertise of full-stack and Blockchain development on Ethereum, Web 3.O I take pride in delivering high-quality solutions and thrive on new challenges. Let's connect and discuss how I can contribute to your next project.",
   resumeLink:
    'https://drive.google.com/file/d/1NVEb6uwTAu6rcW8iTDW-dZk9TACFubEd/view',
 };
