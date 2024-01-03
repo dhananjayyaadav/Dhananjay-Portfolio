@@ -206,6 +206,8 @@ export const experience: ExperienceType[] = [
     desc: 'I worked as a web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
 },
 ];
+
+export const projects: ProjectType[] = [
   {
     name: 'Personal-Portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
@@ -242,6 +244,7 @@ export const experience: ExperienceType[] = [
   },
 ];
 export const feedbacks: FeedbackType[] = [
+
 ];
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = true;
