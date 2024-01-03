@@ -203,7 +203,7 @@ export const experience: ExperienceType[] = [
     company: 'Mitambi Solution',
     companyLogo: '/img/icons/common/Self_employed_img.png',
     date: 'Jan 2023 – Jul 2023',
-    desc: 'I worked as a web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+    desc: 'Worked on the Front-end using React, and Integrating Realtime Data from Back-end(Node) for user experience. Designed and deployed a UI Portal and website with seamless user experience across different devices. Technologies: React.js, Node.js, Mongodb, Bootstrap.',
 },
 ];
 
