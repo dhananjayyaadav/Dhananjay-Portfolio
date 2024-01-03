@@ -215,6 +215,7 @@ export const experience: ExperienceType[] = [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
+  },
 ];
 export const projects: ProjectType[] = [
   {
