@@ -192,18 +192,18 @@ export const educationInfo: EducationType[] = [
 ];
 export const experience: ExperienceType[] = [
   {
-    role: 'Full Stack Development',
-    company: 'Self Employed',
+    role: 'Software Developer',
+    company: 'Algambo Internate Private Limited',
     companyLogo: '/img/icons/common/Self_employed_Copy.png',
-    date: 'Nov 2022 - Mar 2023',
-    desc: ' Build a Matebook App using React, CSS, Express, and TypeScript. A Social Media web Application used for users to Post Photos along with description. Users can Send/Accept/Cancel Friend requests. Users can View/Like/Comment Friend’s Posts.',
+    date: 'Aug 2023 - Present',
+    desc: ' I Worked on a User-friendly Software for the Entire Web app, ensuring a Visually Appealing and Intuitive Interface for customers. And Implemented Payment Gateway pages to Enable Secure Transactions for purchasing prepaid cards using Typescript, Next.js, JavaScript, React, CSS libraries. And apart from this. I built Fully Optimized and High Performance RESTful APIs using React.js, And JWT Authentication, Integrated Node APIs for Fetching Data.',
 },
   {
-    role: 'Frontend Development',
-    company: 'Self Employed',
+    role: 'Web Developer Intern',
+    company: 'Mitambi Solution',
     companyLogo: '/img/icons/common/Self_employed_img.png',
-    date: 'Apr 2022 – Jun 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+    date: 'Jan 2023 – Jul 2023',
+    desc: 'I worked as a web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
 },
   {
     role: 'API Design',
@@ -254,16 +254,6 @@ export const projects: ProjectType[] = [
   },
 ];
 export const feedbacks: FeedbackType[] = [
-  {
-    name: 'Amit Kumar',
-    feedback:
-      'Really great work and I wanted to take a moment to express my sincere appreciation for your exceptional work and outstanding contribution to our team.',
-  },
-  {
-    name: 'Rohit',
-    feedback:
-      'I am impressed by your ability to collaborate effectively with colleagues, both within our team and across departments, I look forward to witnessing your continued growth and success.',
-  },
 ];
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = true;
