@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi, I'm Dhananjay Yadav",
   description:
-    "I'm a passionate and skilled FUll Stack Developer with a BTech degree Institute of Engineering and Technology. My expertise lies in ReactJS, Redux, Node.js and JavaScript, and I enjoy solving programming problems using my strong understanding of data structures and algorithms. With a focus on continuous improvement, I strive to enhance my skills and stay up-to-date with the latest technologies. having an expertise of full-stack and Blockchain development on Ethereum, Web 3.O I take pride in delivering high-quality solutions and thrive on new challenges. Let's connect and discuss how I can contribute to your next project.",
+    "With over 1 years of industry experience, I worked on technologies like Typescript, Next.js, Node.js, and React.js, Bootstrap, Mongodb to elevate in the software development. delivering high-quality solutions and thrive on new challenges. Let's connect and discuss how I can contribute to your next project.",
   resumeLink:
    'https://drive.google.com/file/d/1NVEb6uwTAu6rcW8iTDW-dZk9TACFubEd/view',
 };
@@ -205,19 +205,7 @@ export const experience: ExperienceType[] = [
     date: 'Jan 2023 – Jul 2023',
     desc: 'I worked as a web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
 },
-  {
-    role: 'API Design',
-    company: 'Self Employed',
-    companyLogo: '/img/icons/common/Self_employed.png',
-    date: 'Dec 2022 – Jan 2023',
-    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
-  },
 ];
-export const projects: ProjectType[] = [
   {
     name: 'Personal-Portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
