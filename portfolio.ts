@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "With over 1 years of industry experience, I worked on technologies like Typescript, Next.js, Node.js, and React.js, Bootstrap, Mongodb to elevate in the software development. delivering high-quality solutions and thrive on new challenges. Let's connect and discuss how I can contribute to your next project.",
   resumeLink:
-   'https://drive.google.com/file/d/1NVEb6uwTAu6rcW8iTDW-dZk9TACFubEd/view',
+   '',
 };
 
 export const openSource = {
@@ -196,7 +196,7 @@ export const experience: ExperienceType[] = [
     company: 'Algambo Internate Private Limited',
     companyLogo: '/img/icons/common/Self_employed_Copy.png',
     date: 'Aug 2023 - Present',
-    desc: ' I Worked on a User-friendly Software for the Entire Web app, ensuring a Visually Appealing and Intuitive Interface for customers. And Implemented Payment Gateway pages to Enable Secure Transactions for purchasing prepaid cards using Typescript, Next.js, JavaScript, React, CSS libraries. And apart from this. I built Fully Optimized and High Performance RESTful APIs using React.js, And JWT Authentication, Integrated Node APIs for Fetching Data.',
+    desc: ' I Worked on a User-friendly Software for the Entire Web app, ensuring a Visually Appealing and Intuitive Interface for customers.ipt, And apart from this. I built Fully Optimized and High Performance RESTful APIs using React.js, And JWT Authentication, Integrated Node APIs for Fetching Data.',
 },
   {
     role: 'Web Developer Intern',
