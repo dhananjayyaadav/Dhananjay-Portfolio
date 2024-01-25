@@ -2,7 +2,7 @@ import emoji from 'react-easy-emoji';
 import {
   EducationType,
   ExperienceType,
-  FeedbackType,
+  // FeedbackType,
   ProjectType,
   SkillsSectionType,
   SkillBarsType,
@@ -243,9 +243,9 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/dhananjayyaadav/DisneyPlus-Star-Game',
   },
 ];
-export const feedbacks: FeedbackType[] = [
+// export const feedbacks: FeedbackType[] = [
 
-];
+// ];
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = true;
 
