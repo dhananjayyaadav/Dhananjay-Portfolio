@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Dhananjay Yadav',
   title: "Hi, I'm Dhananjay Yadav",
   description:
-    "With a one years of industry experience, I worked on technologies like Typescript, Next.js, Node.js, and React.js, Bootstrap, Mongodb to elevate in the software development. delivering high-quality solutions and thrive on new challenges. Let's connect and discuss how I can contribute to your next project.",
+    "With a one years of industry experience, I worked on technologies like Typescript, Laravel, CodeIgniter, Node.js, and Next.js, Bootstrap, Mongodb to elevate in the software development. delivering high-quality solutions and thrive on new challenges. Let's connect and discuss how I can contribute to your next project.",
   resumeLink:
    '',
 };
